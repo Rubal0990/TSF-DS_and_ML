@@ -1,8 +1,8 @@
-# Exploratory Data Analysis - Retail
-* Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
+# Exploratory Data Analysis - Terrorism
+* Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’.
 
-* Trying to find out the weak areas where you can work to make more profit.
+* As a security/defense analyst, try to find out the hot zone of terrorism.
 
-* What all business problems you can derive by exploring the data?
+* What all security issues and insights, can be derived through EDA.
 
-* Dataset can be found at : https://bit.ly/3i4rbWl
+* Dataset can be found at : https://bit.ly/2TK5Xn5
