@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Retail
+# Task 3 - Exploratory Data Analysis - Retail
 * Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’.
 
 * Trying to find out the weak areas where you can work to make more profit.
