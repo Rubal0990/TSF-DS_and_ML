@@ -6,3 +6,5 @@
 * Download historical stock prices from https://finance.yahoo.com
 
 * Download textual (news) data from https://bit.ly/36fFPI6
+
+* [Youtube Link](https://youtu.be/kpzCkNZv5wQ)
